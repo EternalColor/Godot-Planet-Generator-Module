@@ -3,7 +3,7 @@
 With this module you can create and configure procedurally created planet meshes in Godot.
 
 You need the source code of Godot 3.2 in order to compile this project. 
-The contents of this project must be copied to the /modules/ folder inside the Godot source code.
+The contents of this project must be copied to the /modules/ folder inside the Godot source.
 
 # API Specification
 
