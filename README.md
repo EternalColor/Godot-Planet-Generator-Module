@@ -15,4 +15,4 @@ A mesh and a static body will be created and added as child nodes.
 
 You can add a PlanetMeshInstance node yourself, it will be added to the selectable Node Types.
 
-![New Node Type](https://github.com/EternalColor/Godot-Planet-Generator-Module/blob/master/PlanetMeshInstanceNodeType.png?raw=true)
+![PlanetMeshInstanceNodeType](https://user-images.githubusercontent.com/58613850/112960420-af502180-9144-11eb-9ea4-b56588618ba7.png)
