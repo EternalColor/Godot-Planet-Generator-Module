@@ -11,6 +11,8 @@ PlanetMeshInstance::CreatePlanet(const StringName& planetGroupName)
 
 A mesh and a static body will be created and added as child nodes. 
 
+# Editor
+
 The PlanetMeshInstance class inherits from MeshInstance. 
 You can add a PlanetMeshInstance node yourself, it will be added to the selectable Node Types.
 
