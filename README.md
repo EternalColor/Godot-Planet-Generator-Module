@@ -21,4 +21,4 @@ You can add a PlanetMeshInstance node yourself, it will be added to the selectab
 
 ![Planet](https://user-images.githubusercontent.com/58613850/112960586-db6ba280-9144-11eb-9ed0-7db7afe26b41.png)
 
-This image was taken with a planet resolution of 4. Higher resolution will result in a higher poly model of the planet.
+This image was taken with a planet resolution of 4. Higher resolution will result in a higher polygon count of the planet.
