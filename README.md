@@ -16,3 +16,7 @@ A mesh and a static body will be created and added as child nodes.
 You can add a PlanetMeshInstance node yourself, it will be added to the selectable Node Types.
 
 ![PlanetMeshInstanceNodeType](https://user-images.githubusercontent.com/58613850/112960420-af502180-9144-11eb-9ea4-b56588618ba7.png)
+
+# In Game Screenshot
+
+![Planet](https://user-images.githubusercontent.com/58613850/112960586-db6ba280-9144-11eb-9ed0-7db7afe26b41.png)
